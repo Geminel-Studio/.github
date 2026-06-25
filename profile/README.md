@@ -70,3 +70,11 @@ self-hosted Kubernetes cluster.
 *Create once. Show up everywhere.*
 
 </div>
+
+---
+
+<div align="center">
+
+<sub>Operated by **„Geminel Studio" S.R.L.** (sole-shareholder limited liability company, in incorporation) · Soroca, Republic of Moldova</sub>
+
+</div>

@@ -51,7 +51,7 @@ self-hosted Kubernetes cluster.
 
 | Repository | Role | Stack |
 |---|---|---|
-| `geminel-platform` | Control plane — accounts, billing (Stripe), service management | FastAPI · React · PostgreSQL |
+| `geminel-platform` | Control plane — accounts, billing (maib ecommerce), service management | FastAPI · React · PostgreSQL |
 | `geminel-smm` | Data plane — content engine, publishing, engagement (multi-tenant) | FastAPI · React · PostgreSQL · Qdrant |
 | `geminel-gitops` | GitOps — ArgoCD app-of-apps, Helm/Kustomize | YAML · Helm |
 | `geminel-infra` | Infrastructure as Code — k3s, Harbor, observability, Cloudflare | Terraform · Ansible |
